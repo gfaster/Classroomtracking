@@ -2,7 +2,7 @@ yo yo yo
 
 0) unzip the download and move it somewhere nice
 
-1) go to (chrome://extensions/)[chrome://extensions/]
+1) go to [chrome://extensions/](chrome://extensions/)
 
 2) turn on developer mode
 
