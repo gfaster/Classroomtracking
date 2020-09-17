@@ -1,7 +1,7 @@
 {
 "name": "Gavin Classroom Recorder",
-"version": "1.1",
-"description": "Build an Extension!",
+"version": "1.2",
+"description": "Behold: Gavin gets to look at how late you turn in your homeworks!",
 "manifest_version": 2,
 "background": {
 	"scripts": ["background.js"],
