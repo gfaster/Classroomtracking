@@ -29,7 +29,7 @@ function extractHostname(url) {
 
 chrome.tabs.onUpdated.addListener( function (tabId, changeInfo, tab) {
 
-  if (typeof tab.url !== "undefined" && changeInfo.status == "complete" && tab.status == 'complete' && tab.url.indexOf("https://classroom.google.com/u/0/") > -1 ) {
+  if (typeof tab.url !== "undefined" && changeInfo.status == "complete" && tab.status == 'complete' && tab.url.indexOf("https://classroom.google.com/") > -1 ) {
 
 
   	const sendnewtimeout = 2 * 60500; // 2 minutes (with a bit of leeway)
