@@ -1,7 +1,7 @@
 {
 "name": "Gavin Classroom Recorder",
-"version": "1.2",
-"description": "Behold: Gavin gets to look at how late you turn in your homeworks!",
+"version": "1.2.1",
+"description": "collecting data on when Google Classroom is opened",
 "manifest_version": 2,
 "background": {
 	"scripts": ["background.js"],
